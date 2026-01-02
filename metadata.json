@@ -1,0 +1,5 @@
+{
+  "name": "SentiNEX Insights Platform",
+  "description": "A high-fidelity recreation of the SentiNEX blog and insights page, featuring AI-enhanced content generation and a modern, professional UI built with Tailwind CSS.",
+  "requestFramePermissions": []
+}
